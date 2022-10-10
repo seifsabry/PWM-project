@@ -1,0 +1,19 @@
+Dependencies for Project 'project1', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 5060750::V5.06 update 6 (build 750)::ARMCC
+F (.\startup_TM4C123.s)(0x630632D3)(--cpu Cortex-M4.fp.sp --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-I.\RTE\_Target_1-ID:\keil5\ARM\CMSIS\5.6.0\CMSIS\Core\Include-ID:\keil5\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123--pd "__UVISION_VERSION SETA 529" --pd "_RTE_ SETA 1" --pd "TM4C123GH6PM SETA 1"--list .\startup_tm4c123.lst --xref -o .\startup_tm4c123.o --depend .\startup_tm4c123.d)
+F (.\app.c)(0x630660E3)(-c --cpu Cortex-M4.fp.sp -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I.\RTE\_Target_1-ID:\keil5\ARM\CMSIS\5.6.0\CMSIS\Core\Include-ID:\keil5\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="529" -D_RTE_ -DTM4C123GH6PM-o .\app.o --omf_browse .\app.crf --depend .\app.d)
+I (GPIOF.h)(0x63064D5E)
+I (GPIO.h)(0x6302B7E6)
+I (sysctrl.h)(0x6306598C)
+I (Interrupt.h)(0x63065C72)
+I (systickR.h)(0x6302BAF5)
+I (RGB.h)(0x6302BA94)
+I (systick.h)(0x63065C52)
+F (.\GPIO.h)(0x6302B7E6)()
+F (.\GPIOF.h)(0x63064D5E)()
+F (.\interrupt.h)(0x63065C72)()
+F (.\RGB.h)(0x6302BA94)()
+F (.\sysctrl.h)(0x6306598C)()
+F (.\systick.h)(0x63065C52)()
+F (.\systickR.h)(0x6302BAF5)()
+F (.\TIMER0.h)(0x63064D5E)()

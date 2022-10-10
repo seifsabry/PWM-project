@@ -1,0 +1,11 @@
+.\app.o: app.c
+.\app.o: GPIOF.h
+.\app.o: GPIO.h
+.\app.o: sysctrl.h
+.\app.o: Interrupt.h
+.\app.o: systickR.h
+.\app.o: GPIO.h
+.\app.o: RGB.h
+.\app.o: GPIO.h
+.\app.o: systick.h
+.\app.o: systickR.h
